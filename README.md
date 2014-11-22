@@ -8,7 +8,7 @@ boomboombox
  its based on the Sequencer Code by Adafruit 
  
  Resources
- ===========
+ 
  Original code https://github.com/adafruit/Adafruit_UNTZtrument/
  Untz Docu https://learn.adafruit.com/untztrument-trellis-midi-instrument/
  Uses Midi Libraray 4.2 https://github.com/FortySevenEffects/arduino_midi_library
